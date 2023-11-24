@@ -8,7 +8,7 @@ Pivot experiments on Windows with GitHub and Python
 
 ### Goal 3, produce some data sheets in python, and pivot and display them
 
-## There is also a supplementary goal of testing markdown (.md) previews
+### There is also a supplementary goal of testing markdown (.md) previews
 *italics*  
 **bold**  
 ***bolditalics***
@@ -18,7 +18,8 @@ Pivot experiments on Windows with GitHub and Python
 1. a
 1. list
 
->>This is a quote
+>This is a quote
+>>This is a double quote
 
 Here is a code snippet
 ```
