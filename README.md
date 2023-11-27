@@ -27,7 +27,7 @@ greeting = "Hello, World!"
 print(greeting)
 ```
 
-Here is some inline code: `print "Hello, World!`  
+Here is some inline code: `print "Hello, World!"`  
 
 Here is a link to [Google](https://www.google.com)  
 
